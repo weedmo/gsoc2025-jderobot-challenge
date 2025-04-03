@@ -40,8 +40,7 @@ The challenges are organized into two main parts:
 - ✅ Used at least **three waypoints**  
 - ✅ Demonstrated the navigation in a result video
 
-📹 https://youtu.be/uZmjQXn914s?si=nHxr4m4wg-LeD_E- 
-
+📹 [![Watch the video](https://img.youtube.com/vi/uZmjQXn914s/hqdefault.jpg)](https://youtu.be/uZmjQXn914s?si=nHxr4m4wg-LeD_E-)
 ---
 
 ## 🗂️ Placeholder Sections
