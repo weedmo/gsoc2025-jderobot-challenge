@@ -1,51 +1,60 @@
 # gsoc2025-jderobot-challenge
-📁 ROS2
-🔹 Part 1: Introduction to ROS2
-a. Hello! ROS2 is fun.
-📁 Path: ROS2/py_pubsub
+This section contains code and documentation for the ROS2 Challenges.  
+The challenges are organized into two main parts:
 
-Created a new ROS2 workspace
+---
 
-Developed ROS2 publisher and subscriber nodes to send the message "Hello! ROS2 is fun."
+## 📘 Part 1: Introduction to ROS2
 
-Built the package using colcon
+### 🟦 a. Hello! ROS2 is fun.  
+📁 Path: `ROS2/py_pubsub`
 
-Ran the nodes using ros2 run
+- ✅ Created a new ROS2 workspace  
+- ✅ Built ROS2 publisher and subscriber nodes to send the message:  
+  > `"Hello! ROS2 is fun."`  
+- ✅ Built the package using `colcon`  
+- ✅ Ran the executable using `ros2 run`
 
-📷 Screenshot to be added
+📷 *Screenshot will be added*
 
-This example focuses on understanding the basic structure of a ROS2 package and node communication using rclpy.
+> This example introduces the basic ROS2 package structure and node communication using `rclpy`.
 
-b. Launch your robot
-📁 Path: ROS2/py_pubsub or a separate folder
+---
 
-Installed a robot package (e.g., TurtleBot3 or any other ROS2-supported robot)
+### 🟦 b. Launch your robot  
+📁 Path: `ROS2/py_pubsub` (or a separate folder)
 
-Visualized the robot’s laser scan data using rviz2
+- ✅ Installed a ROS2-supported robot package (e.g., TurtleBot3)  
+- ✅ Visualized the robot’s LaserScan data using `rviz2`
 
-📷 Screenshot to be added
+📷 *Screenshot will be added*
 
-This part demonstrates how to visualize sensor data (like LaserScan) in rviz2, which is essential for debugging and understanding robot perception.
+> This exercise demonstrates how to use `rviz2` for visualizing sensor data like LaserScan — a critical part of robot perception.
 
-🔹 Part 2: ROS2 Navigation2
-a. Navigate your turtlebot
-📁 Path: ROS2/nav2_waypoints_runner
+---
 
-Installed ROS2 Navigation2 stack and Gazebo
+## 📘 Part 2: ROS2 Navigation2
 
-Performed waypoint navigation using a robot (TurtleBot or any other supported robot)
+### 🟦 a. Navigate your turtlebot  
+📁 Path: `ROS2/nav2_waypoints_runner`
 
-Included at least 3 waypoints for navigation
+- ✅ Installed ROS2 Navigation2 and Gazebo  
+- ✅ Launched a robot (e.g., TurtleBot) and performed waypoint navigation  
+- ✅ Used at least **three waypoints**  
+- ✅ Demonstrated the navigation in a result video
 
-Recorded a video showcasing the robot moving through the waypoints
+📹 *Video will be added*
 
-📹 Video to be added
+> This task demonstrates basic usage of the Navigation2 stack for autonomous navigation. You are free to expand on this, such as modifying behavior trees or using custom goals.
 
-This task shows how to use the Navigation2 stack for autonomous navigation. For extended learning, customizing Behavior Trees or sending dynamic goals can be explored.
+---
 
-🗂️ Placeholder Sections (To Be Organized Later)
-📁 RoboticsAcademy
-(To be filled later)
+## 🗂️ Placeholder Sections
 
-📁 Python
-(To be filled later)
+### 📁 RoboticsAcademy  
+_🔧 To be organized later_
+
+### 📁 Python  
+_🔧 To be organized later_
+
+---
