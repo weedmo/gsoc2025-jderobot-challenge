@@ -15,9 +15,8 @@ The challenges are organized into two main parts:
 - ✅ Built the package using `colcon`  
 - ✅ Ran the executable using `ros2 run`
 
-📷 *Screenshot will be added*
+📷 ![Screenshot from 2025-04-03 14-23-04](https://github.com/user-attachments/assets/0c09afff-3b2a-4d9e-9fe2-987691fcaa22)
 
-> This example introduces the basic ROS2 package structure and node communication using `rclpy`.
 
 ---
 
@@ -27,9 +26,7 @@ The challenges are organized into two main parts:
 - ✅ Installed a ROS2-supported robot package (e.g., TurtleBot3)  
 - ✅ Visualized the robot’s LaserScan data using `rviz2`
 
-📷 *Screenshot will be added*
-
-> This exercise demonstrates how to use `rviz2` for visualizing sensor data like LaserScan — a critical part of robot perception.
+📷 ![Screenshot from 2025-04-03 14-29-42](https://github.com/user-attachments/assets/9521150a-0c99-456b-9782-6ca1829d3984)
 
 ---
 
@@ -43,9 +40,7 @@ The challenges are organized into two main parts:
 - ✅ Used at least **three waypoints**  
 - ✅ Demonstrated the navigation in a result video
 
-📹 *Video will be added*
-
-> This task demonstrates basic usage of the Navigation2 stack for autonomous navigation. You are free to expand on this, such as modifying behavior trees or using custom goals.
+📹 https://youtu.be/uZmjQXn914s?si=nHxr4m4wg-LeD_E- 
 
 ---
 
