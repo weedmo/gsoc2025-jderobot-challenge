@@ -1,0 +1,27 @@
+# ROS2 build artifacts
+build/
+install/
+log/
+
+# ROS2 overlay workspace stuff
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Colcon install log
+.colcon_install_layout
+
+# Editor/OS-specific
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# ROS2 launch/param config backups
+*.launch.py~
+*.yaml~
+
+# Python virtual environments (if any)
+venv/
+.env/
